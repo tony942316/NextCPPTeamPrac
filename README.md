@@ -1,2 +1,2 @@
-# CLZ-Chirag_CPPprac
+# NextCPPTeamPrac
 C++ Practice
